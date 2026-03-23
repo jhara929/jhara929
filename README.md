@@ -11,7 +11,16 @@ I am a graduate student in the Department of Applied Artificial Intelligence (M.
 ## Education
 
 - Hanyang University ERICA, Ansan, Republic of Korea
+  
   - M.AI. in Applied Artificial Intelligence (Mar. 2026 – Present)
+    
   - B.S. in Mathematical Data Science (Mar. 2019 – Feb. 2026)
+    
     (Department of Chemical and Molecular Engineering, Mar. 2019 – Feb. 2024)
 
+---
+
+## Research Interests
+
+- Generative Models
+- LLM

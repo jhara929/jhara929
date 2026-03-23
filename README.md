@@ -15,8 +15,10 @@ I am a graduate student in the Department of Applied Artificial Intelligence (M.
   - M.AI. in Applied Artificial Intelligence (Mar. 2026 – Present)
     
   - B.S. in Mathematical Data Science (Mar. 2019 – Feb. 2026)
+ 
+    Double Major in Industrial Artificial Intelligence
     
-    (Department of Chemical and Molecular Engineering, Mar. 2019 – Feb. 2024)
+    (Transferred from the Department of Chemical and Molecular Engineering, Mar. 2019 – Feb. 2024)
 
 ---
 

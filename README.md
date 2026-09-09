@@ -24,8 +24,8 @@ I am a graduate student in the Department of Applied Artificial Intelligence (M.
 
 ## Publications
 
-- **Cost-Sensitive No-Valid-Option MCQA: Analyzing LLM Abstention under Invalid Choices** *(Title subject to change)*<br>
-  **Jinhyeok Kim**, Hye-Young Jung †, *AACL-IJCNLP 2026 Main Conference (Short Paper)* — **Accepted**
+- Cost-Sensitive No-Valid-Option MCQA: Analyzing LLM Abstention under Invalid Choices *(Title subject to change)*<br>
+  **Jinhyeok Kim**, Hye-Young Jung†, *AACL-IJCNLP 2026 Main Conference (Short Paper)* — **Accepted**
 
 ---
 

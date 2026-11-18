@@ -25,7 +25,7 @@ I am a graduate student in the Department of Applied Artificial Intelligence (M.
 ## Publications
 
 - Penalty-Framed No-Valid-Option MCQA: Analyzing LLM Abstention under Invalid Choices <br>
-  **Jinhyeok Kim**, Hye-Young Jung†, *AACL-IJCNLP 2026 Main Conference (Short Paper)* — **Accepted**
+  **Jinhyeok Kim**, Hye-Young Jung†, *AACL-IJCNLP 2026 Main Conference (Short Paper)* — **Accepted** [[Paper]](https://aclanthology.org/2026.aacl-short.24/)
 
 ---
 
